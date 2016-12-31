@@ -3,7 +3,7 @@ This project is modify from osqzss's gps-sdr-sim project (https://github.com/osq
 
 It can generate fake gps signal by hackrf and immediately control by keyboard (W = north, S = south, A = west, D = east) or joystick.
 
-Before use this tool please install hackrf driver to your windows first (http://superfro.org/setting-up-hackrf-in-windows-with-sdr/)
+Before use this tool please install hackrf USB driver to your windows system first (https://sourceforge.net/projects/libwdi/files/zadig/)
 
 
 Usage: hackrf_gpsspoof [options]\n"
